@@ -1,0 +1,10 @@
+Package: smote
+Type: Package
+Title: a imbalance data preprocess skill called Smote in R
+Version: 0.1
+Date: 2018-04-03
+Author: Yi Bin
+Maintainer: Yi Bin <binyi@github.com>
+Description: a imbalance data preprocess skill called Smote in R
+License: all
+LazyData: TRUE
